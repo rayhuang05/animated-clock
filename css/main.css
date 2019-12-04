@@ -20,7 +20,7 @@ background: transparent url("../images/clock-face.svg") no-repeat center center;
 
 .hand {
   bottom: calc(50% - 8px);
-  left: calc(50% -  7px
+  left: calc(50% -  7px);
   position: absolute;
   width: 14px;
 
